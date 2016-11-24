@@ -1,8 +1,8 @@
 # Site settings
 title: Hieu Dang - Web Developer
 description: "A blog about Hieu Dang ..."
-baseurl: "/space-jekyll-template" # for test: remove string '/space-jekyll-templa' to ''
-url: "https//:hieudang9.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https:yourusername.githu.io'
+baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
+url: "http//:hieudang9.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https:yourusername.githu.io'
 
 # User settings
 username: Hieu Dang
@@ -45,6 +45,6 @@ projects:
   - name: vim-frontend
     url: https://github.com/hieudang9/vim-frontend
   - name: generator-capybara
-    url: https://github.com/hieudang9/generator-capybara 
+    url: https://github.com/hieudang9/generator-capybara
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
