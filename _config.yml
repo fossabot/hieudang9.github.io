@@ -1,12 +1,12 @@
 # Site settings
-title: Hieu Dang - Fullstack DevOps
+title: Hieu Dang - Fullstack DevOps Vietnam
 description: "A blog about Hieu Dang ..."
 baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
 url: "https:hieudang9.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https:yourusername.githu.io'
 
 # User settings
 username: Hieu Dang
-user_title: Hieu Dang - FrontEnd
+user_title: Hieu Dang - DevOps
 email: hieu@hieudang.com
 twitter_username: hieudang9
 github_username:  hieudang9
