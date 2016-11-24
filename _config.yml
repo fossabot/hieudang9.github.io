@@ -2,7 +2,7 @@
 title: Hieu Dang - Web Developer
 description: "A blog about Hieu Dang ..."
 baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
-url: "http//:hieudang9.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https:yourusername.githu.io'
+url: "https:hieudang9.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https:yourusername.githu.io'
 
 # User settings
 username: Hieu Dang
