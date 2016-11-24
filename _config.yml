@@ -1,5 +1,5 @@
 # Site settings
-title: Hieu Dang - Web Developer
+title: Hieu Dang - Fullstack DevOps
 description: "A blog about Hieu Dang ..."
 baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
 url: "https:hieudang9.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https:yourusername.githu.io'
@@ -13,6 +13,7 @@ github_username:  hieudang9
 gplus_username:  hieudang9
 disqus_username: hieudang9
 linkedin_username: hieudang9
+ync_username: hieudang9
 
 # Build settings
 markdown: kramdown
